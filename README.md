@@ -1,5 +1,5 @@
 # The-Crash
-A text adventure game I made in C++
+A text adventure game I made in C++ with Visual Studios
 
 
 
